@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/rafidRD"><img src="https://i.postimg.cc/CKQ9n8K3/48218643655.png"></a>
+<a href="https://github.com/nuist-chengfei"><img src="https://i.postimg.cc/CKQ9n8K3/48218643655.png"></a>
 <h1 align="center">Hey<img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="38px" alt="👋">, RD here.. </h1>
 <h3 align="center">I'm a creative soul, inspired by the beauty of life's imperfections.💫</h3>
 </p>
@@ -26,22 +26,22 @@
 <details>
 <table><tr>
   <td colspan="2">
-  <a href="https://github.com/rafidrd">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafidrd&theme=transparent" />
+  <a href="https://github.com/nuist-chengfei">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuist-chengfei&theme=transparent" />
   </a>
   </td>
   
-  <td width rowspan="2"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafidRD&layout=donut-vertical&theme=transparent&hide_border=true" alt="Most Used Language" />
+  <td width rowspan="2"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuist-chengfei&layout=donut-vertical&theme=transparent&hide_border=true" alt="Most Used Language" />
   </td>  
 </tr>
 <tr>
 <td>
-  <a href="https://github.com/rafidrd">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafidrd&theme=transparent" />
+  <a href="https://github.com/nuist-chengfei">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nuist-chengfei&theme=transparent" />
   </a>
 </td>
-<td><a href="https://github.com/rafidrd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafidrd&hide_border=true&theme=transparent" />
+<td><a href="https://github.com/nuist-chengfei">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuist-chengfei&hide_border=true&theme=transparent" />
   </a>
 </td>
 </tr></table>
